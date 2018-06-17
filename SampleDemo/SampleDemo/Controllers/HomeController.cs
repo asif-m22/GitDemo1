@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-/* code changes from GIT Hub */
+/* code changes */
 namespace SampleDemo.Controllers
 {
     public class HomeController : Controller
